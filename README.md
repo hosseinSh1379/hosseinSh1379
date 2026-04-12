@@ -1,4 +1,4 @@
-<img width="1440" height="4062" alt="image" src="https://github.com/user-attachments/assets/65b57fb0-8ae3-4420-84f1-9279f607b242" /># Hi there, I'm Hossein Shammari 👋
+# Hi there, I'm Hossein Shammari 👋
 
 **Senior Full-Stack & Mobile Engineer** with 7+ years of experience
 building production-grade web & mobile apps across Iraq and the region.
@@ -39,7 +39,7 @@ building production-grade web & mobile apps across Iraq and the region.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hosseinshammari&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hosseinSh1379&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -48,13 +48,13 @@ building production-grade web & mobile apps across Iraq and the region.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hosseinshammari/hosseinshammari/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/hosseinSh1379/hosseinSh1379/output/github-contribution-grid-snake-dark.svg" />
   <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/hosseinshammari/hosseinshammari/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/hosseinSh1379/hosseinSh1379/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hosseinshammari&color=58a6ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hosseinSh1379&color=58a6ff&style=flat" />
 </p>
