@@ -30,9 +30,8 @@ building production-grade web & mobile apps across Iraq and the region.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinSh1379
-&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinSh1379&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhosseinshammari&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinshammari&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
@@ -40,7 +39,7 @@ building production-grade web & mobile apps across Iraq and the region.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sh1379&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=amirhosseinshammari&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -49,13 +48,13 @@ building production-grade web & mobile apps across Iraq and the region.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sh1379/Sh1379/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/amirhosseinshammari/hosseinSh1379/output/github-contribution-grid-snake-dark.svg" />
   <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Sh1379/Sh1379/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/amirhosseinshammari/hosseinSh1379/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hosseinSh1379&color=58a6ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=amirhosseinshammari&color=58a6ff&style=flat" />
 </p>
