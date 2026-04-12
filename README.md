@@ -30,8 +30,9 @@ building production-grade web & mobile apps across Iraq and the region.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh1379&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1379&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinSh1379
+&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinSh1379&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
@@ -56,5 +57,5 @@ building production-grade web & mobile apps across Iraq and the region.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sh1379&color=58a6ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hosseinSh1379&color=58a6ff&style=flat" />
 </p>
